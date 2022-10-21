@@ -1,0 +1,8 @@
+
+My name is Manjeet yadav.
+I am from Gorakhpur, Uttar Pradesh.
+But now I am living in Lucknow, Uttar Pradesh.
+I completed my B.Tech from the Institute of Engineering and Technology, Lucknow in Electronics and Instrumentation Engineering.
+And currently, I am actively preparing and looking for a job in information and technology(IT sector)
+for that, I learned Python programming, MySQL, Data structure and algorithm(DSA), Ms-Office(Ms-Excel, Ms-Word, Ms-Powerpoint, etc) and so on.
+and I want to be a data analyst.
